@@ -60,6 +60,6 @@ Note: The data we have given is a static data set, so you can hard code the curr
 ### API Endpoints URLs
 
 - **Post Request** to get the status: [http://localhost:8000/store/get_report/](http://localhost:8000/store/get_report/)
-- **Get Request** to trigger the report: [http://localhost:8000/store/9200325206334396031/trigger_report/](http://localhost:8000/store/9200325206334396031/trigger_report/)
+- **Get Request** to trigger the report: [http://localhost:8000/store/store_id/trigger_report/](http://localhost:8000/store/9200325206334396031/trigger_report/)
 
 - **Testing Application** Video Link: [Click Here](https://drive.google.com/file/d/1oG6CqlsCj4G8i8nC_YD1MsRCMSbiNEtD/view?usp=drive_link)
